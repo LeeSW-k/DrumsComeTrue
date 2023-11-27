@@ -70,7 +70,7 @@ BE
         </td>
     </tr>
     <tr>
-        <td><b>외부 API</b></td>
+        <td><b>외부 SDK</b></td>
         <td>
             <img src="https://img.shields.io/badge/_-ML_Kit-black" />
         </td>
