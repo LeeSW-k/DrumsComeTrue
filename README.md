@@ -37,40 +37,63 @@ BE
 
 
 ## 사용 기술
-### Environment
-![Intellij](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
- <img src="https://img.shields.io/badge/Android Studio Code-007ACC?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/gitlab-6666c4?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-
-### Config
-![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-
-### Development
-#### - Back-End
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
-
-
-#### - Front-End
-<img src="https://img.shields.io/badge/Kotlin-E34F26?style=for-the-badge&logo=Kotlin&logoColor=white">
-
-
-### 외부 API
-<img src="https://img.shields.io/badge/ML_Kit-black?style=for-the-badge&logo=&logoColor=blue">
-
-
-### Management
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-### Communication
-<img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-
-### Deploy
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+<div align=left>
+<table>
+    <tr>
+        <td><b>Back-End</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/_-Java-red" />
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=springboot&logoColor=white">
+            <img src="https://img.shields.io/badge/JPA Hibernate-59666C?logo=Hibernate&logoColor=white">
+            <img src="https://img.shields.io/badge/Spring Security-6DB33F?logo=springsecurity&logoColor=white">
+            <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white">
+            <img src="https://img.shields.io/badge/_-OAuth-gray" />
+            <img src="https://img.shields.io/badge/MySQL-c49a6c?logo=MySQL&logoColor=white" />
+            <img src="https://img.shields.io/badge/Redis-a41e11?logo=Redis&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Front-end</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Kotlin-E34F26?logo=Kotlin&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td><b>Infra</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Termius-000000?logo=termius&logoColor=white">
+            <img src="https://img.shields.io/badge/AWS EC2-FF9900?logo=amazonec2&logoColor=white">
+            <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+            <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white">
+            <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white">
+            <img src="https://img.shields.io/badge/amazonS3-7b1d13?logo=amazonS3&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td><b>외부 API</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/_-ML_Kit-black" />
+        </td>
+    </tr>
+    <tr>
+    <tr>
+        <td><b>VC</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+            <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white">
+            <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+        </td>
+    </tr>
+    <tr>
+        <td><b>Tools</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/Jira Software-0052CC?logo=jirasoftware&logoColor=white">
+            <img src="https://img.shields.io/badge/Mattermost-0058CC?logo=mattermost&logoColor=white">
+            <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white">
+        </td>
+    </tr>
+</table>
+</div>
 
 ## 화면 구성
 
